@@ -2,7 +2,7 @@
 
 # Virtual File System
 
-Um programa que permite criar um "sistem de arquivos virutal", que consiste em um arquivo, no qual pode-se armazenar e acessar outros arquivos. Este programa utiliza um formato de arquivo binário próprio, para dentro deste armzenar outros arquivos, como em um sistema de arquivos real. 
+Um programa que permite criar um "sistem de arquivos virutal", que consiste em um arquivo, no qual pode-se armazenar e acessar outros arquivos. Este programa utiliza um formato de arquivo binário próprio, para dentro deste armazenar outros arquivos, como em um sistema de arquivos real. 
 
 
 
@@ -18,7 +18,7 @@ Este programa foi desenvolvido com fins educacionais, compreender utilização d
 
 
 
-# Screenshots
+# Screenshot
 
 ![screenshot](./images/screenshot.png)
 
